@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795004852501",
+    "project_id": "cargram-14ee9",
+    "storage_bucket": "cargram-14ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795004852501:android:3bbf8527d0b8ce0f4e711c",
+        "android_client_info": {
+          "package_name": "com.example.cargram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5KC8lsIex26Ls2IJ7HvsdyOAoZiGlcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

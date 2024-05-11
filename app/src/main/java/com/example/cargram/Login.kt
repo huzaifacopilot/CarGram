@@ -44,5 +44,6 @@ class Login : AppCompatActivity() {
         if(auth.currentUser!=null){
             startActivity(Intent(this, HomeScreen::class.java))
         }
+        //check
     }
 }
